@@ -1,7 +1,8 @@
 body {
     /* para ver si está integrado el css */
     /* display: none; */ 
-    font-family: 'Baumans', cursive;    
+    font-family: 'Baumans', cursive;   
+    background: black; 
     
 }
 
@@ -10,6 +11,13 @@ body {
     width: 100vw;
     z-index: 1;
 }
+
+#Quienes-somos{
+
+    border: 1px solid #fff;
+    padding: 40px;
+}
+
 
 
 /* .navbar-brand{
