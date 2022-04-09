@@ -30,6 +30,15 @@ body {
    color: white;
 }
 
+#tres-columnas i{
+    /* border: 1px solid red; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    
+}
+
 
 /* .navbar-brand{
     font-family: 'Baumans', cursive;
