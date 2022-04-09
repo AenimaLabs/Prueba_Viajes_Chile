@@ -26,6 +26,10 @@ body {
    
 }
 
+#tres-columnas p{
+   color: white;
+}
+
 
 /* .navbar-brand{
     font-family: 'Baumans', cursive;
