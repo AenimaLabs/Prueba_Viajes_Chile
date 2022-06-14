@@ -12,14 +12,14 @@ body {
 }
 
 .navbar{
-    position: fixed;
+    /* position: fixed; */
     width: 100vw;
-    z-index: 1;
+    /* z-index: 1; */
     
 }
 
 .carousel{
-    z-index: 0
+    /* z-index: 0 */
 }
 
 #Quienes-somos{
